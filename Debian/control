@@ -1,0 +1,9 @@
+Package: whisker-warp
+Version: 0.1
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash, wormhole, zenity
+Maintainer: Mrcafune dev@kittentechnologies.com
+Description: Simple Front-End for Wormhole with Zenity
+Simple Front-End for Wormhole with Zenity
