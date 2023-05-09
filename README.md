@@ -6,4 +6,5 @@ It's simple, fun to use, and kind of comfy.  Working on turning this into a real
 You can find the script itself [here](https://github.com/mrcafune/Whisker-Warp/blob/main/usr/bin/whisker-warp.sh)
 
 ![alt text](https://github.com/mrcafune/Whisker-Warp/blob/main/action.png?raw=true)
+
 ![alt text](https://github.com/mrcafune/Whisker-Warp/blob/main/code.png?raw=true)
